@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045190478260",
+    "project_id": "web-socket-chat-24fb8",
+    "storage_bucket": "web-socket-chat-24fb8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045190478260:android:61b45478bf8cd8023fcae1",
+        "android_client_info": {
+          "package_name": "com.example.web_socket_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1z7Vc_TIH-k9MeRdqp6MBquHf72YkUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
