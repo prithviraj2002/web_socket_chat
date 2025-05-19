@@ -1,0 +1,1 @@
+C:\Users\lenovo\StudioProjects\web_socket_chat\build\app\intermediates\cxx\Debug\3g564r39\obj\x86

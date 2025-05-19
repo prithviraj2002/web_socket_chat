@@ -10,7 +10,7 @@ plugins {
 
 android {
     namespace = "com.example.web_socket_chat"
-    compileSdk = 34
+    compileSdk = 35
     //flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

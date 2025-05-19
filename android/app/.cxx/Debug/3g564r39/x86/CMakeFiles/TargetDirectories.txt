@@ -1,0 +1,2 @@
+C:/Users/lenovo/StudioProjects/web_socket_chat/android/app/.cxx/Debug/3g564r39/x86/CMakeFiles/edit_cache.dir
+C:/Users/lenovo/StudioProjects/web_socket_chat/android/app/.cxx/Debug/3g564r39/x86/CMakeFiles/rebuild_cache.dir
